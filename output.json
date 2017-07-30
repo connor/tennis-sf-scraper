@@ -1,0 +1,456 @@
+[{
+	"name": "Alamo Square Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "Hayes & Steiner , San Francisco CA  94117",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7756387",
+		"lng": "-122.4328354"
+	},
+	"has_wall": false
+}, {
+	"name": "Alice Marble Rec Center",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 4,
+	"has_lights": false,
+	"address": "Greenwich St. and Hyde St., SF CA  94109",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.8010763",
+		"lng": "-122.4194825"
+	},
+	"has_wall": true
+}, {
+	"name": "Alta Plaza",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 3,
+	"has_lights": false,
+	"address": "Jackson St. and Steiner St.  , SF CA  94115",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.792263",
+		"lng": "-122.436204"
+	},
+	"has_wall": false
+}, {
+	"name": "Berry St. Tennis Court",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "500 Berry St., San Francisco CA  94103",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7705283",
+		"lng": "-122.4000495"
+	},
+	"has_wall": false
+}, {
+	"name": "Buena Vista Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "Haight St and Buena Vista Ave W, SF CA  94117",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7704789",
+		"lng": "-122.4433505"
+	},
+	"has_wall": false
+}, {
+	"name": "California Tennis Club",
+	"has_fee": false,
+	"is_tennis_club": true,
+	"courts": 10,
+	"has_lights": true,
+	"address": "1770 Scott St., SF CA  94115",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.78602",
+		"lng": "-122.437601"
+	},
+	"has_wall": false
+}, {
+	"name": "Cathedral Hill Plaza",
+	"has_fee": false,
+	"is_tennis_club": true,
+	"courts": 2,
+	"has_lights": true,
+	"address": "1333 Gough Street, San Francisco CA  94109",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.785734",
+		"lng": "-122.425605"
+	},
+	"has_wall": false
+}, {
+	"name": "Collingwood Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "19th St and Collingwood St, SF CA  94114",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7592295",
+		"lng": "-122.435943"
+	},
+	"has_wall": false
+}, {
+	"name": "Dupont Courts",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 4,
+	"has_lights": false,
+	"address": "300 30th Ave., San Francisco CA  94121",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7827123",
+		"lng": "-122.4903143"
+	},
+	"has_wall": false
+}, {
+	"name": "Ella Hill Hutch Comm. Center",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 4,
+	"has_lights": true,
+	"address": "1050 Mcallister St., SF CA  94115",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7792819",
+		"lng": "-122.4292793"
+	},
+	"has_wall": false
+}, {
+	"name": "Eureka Valley Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "169 Collingwood St., San Francisco CA  94114",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.759769",
+		"lng": "-122.435694"
+	},
+	"has_wall": false
+}, {
+	"name": "Flint St. Tennis Courts",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "26 Flint St, San Francisco CA  94114",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7645596",
+		"lng": "-122.4365945"
+	},
+	"has_wall": false
+}, {
+	"name": "Fulton Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "855 27th Ave., San Francisco CA  94121",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7732782000000071320755523629486560821533203125",
+		"lng": "-122.4864070999999938749169814400374889373779296875"
+	},
+	"has_wall": false
+}, {
+	"name": "Golden Gate Tennis Complex",
+	"has_fee": true,
+	"is_tennis_club": false,
+	"courts": 21,
+	"has_lights": false,
+	"address": "Kennedy Dr. and Middle Dr. E.  , SF CA  94122",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7713192",
+		"lng": "-122.4591996"
+	},
+	"has_wall": true
+}, {
+	"name": "Golden Gateway Tennis Club",
+	"has_fee": false,
+	"is_tennis_club": true,
+	"courts": 9,
+	"has_lights": true,
+	"address": "370 Drumm St., SF CA  94111",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7969224",
+		"lng": "-122.397494"
+	},
+	"has_wall": false
+}, {
+	"name": "Hamilton Rec. Center",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": true,
+	"address": "Geary St. and Steiner St., SF CA  94115",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7842128",
+		"lng": "-122.4345669"
+	},
+	"has_wall": false
+}, {
+	"name": "Hayes Valley Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": true,
+	"address": "Buchanan St and Hayes St., San Francisco CA  94102",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7762561",
+		"lng": "-122.4279179"
+	},
+	"has_wall": false
+}, {
+	"name": "Helen Willis Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "Larkin St & Broadway St., Sea Cliff CA  94109",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7960714",
+		"lng": "-122.4201208"
+	},
+	"has_wall": false
+}, {
+	"name": "Julius Kahn Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 4,
+	"has_lights": false,
+	"address": "3600 W Pacific Ave., SF CA  94129",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.790098",
+		"lng": "-122.4586809"
+	},
+	"has_wall": false
+}, {
+	"name": "Laurel Hill Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "301 Euclid Ave , San Francisco CA  94118",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.78435229999999",
+		"lng": "-122.4506263"
+	},
+	"has_wall": false
+}, {
+	"name": "Margaret Hayward Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": true,
+	"address": "Golden Gate Ave and Laguna St  , SF CA  94115",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7802009",
+		"lng": "-122.4270478"
+	},
+	"has_wall": false
+}, {
+	"name": "Mission Dolores Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 6,
+	"has_lights": true,
+	"address": "18th St. and Dolores St., SF CA  94114",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7614288",
+		"lng": "-122.4260772"
+	},
+	"has_wall": false
+}, {
+	"name": "Mission Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "19th St & Valencia St,, San Francisco CA  94110",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7601075",
+		"lng": "-122.4214485"
+	},
+	"has_wall": false
+}, {
+	"name": "Moscone Rec Center",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": true,
+	"address": "1800 Chestnut St., SF CA  94123",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.8014285",
+		"lng": "-122.4330813"
+	},
+	"has_wall": true
+}, {
+	"name": "Mountain Lake Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 4,
+	"has_lights": false,
+	"address": "12th Ave. and Lake St., SF CA  94118",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7854613",
+		"lng": "-122.4710697"
+	},
+	"has_wall": false
+}, {
+	"name": "North Beach (Joe Dimaggio)",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 3,
+	"has_lights": true,
+	"address": "Lombard St. and Mason St., SF CA  94133",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.8028601",
+		"lng": "-122.4130541"
+	},
+	"has_wall": true
+}, {
+	"name": "Presidio YMCA",
+	"has_fee": false,
+	"is_tennis_club": true,
+	"courts": 6,
+	"has_lights": true,
+	"address": "63 Funston Ave., SF CA  94129",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7998493",
+		"lng": "-122.4549067"
+	},
+	"has_wall": false
+}, {
+	"name": "Rocky Mountain Nursery School",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "2475 15th St., SF CA  94114",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7661642",
+		"lng": "-122.4381553"
+	},
+	"has_wall": false
+}, {
+	"name": "Rossi Park",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 3,
+	"has_lights": false,
+	"address": "Arguello Blvd and Edward St  , SF CA  94118",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7780036",
+		"lng": "-122.4586255"
+	},
+	"has_wall": true
+}, {
+	"name": "San Francisco Tennis Club",
+	"has_fee": true,
+	"is_tennis_club": true,
+	"courts": 12,
+	"has_lights": true,
+	"address": "645 5th St., San Francisco CA  94107",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7768082",
+		"lng": "-122.3977051"
+	},
+	"has_wall": false
+}, {
+	"name": "South Beach Marina Apts.",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": true,
+	"address": "2 Townsend St., San Francisco CA  94107",
+	"is_restricted": true,
+	"geo": {
+		"lat": "37.781737",
+		"lng": "-122.3891412"
+	},
+	"has_wall": false
+}, {
+	"name": "Sunset (Lawton) Rec Center",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "28th Ave and Lawton St., SF CA  94122",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.757553",
+		"lng": "-122.4863998"
+	},
+	"has_wall": true
+}, {
+	"name": "Tennis Shack",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 0,
+	"has_lights": false,
+	"address": "3375 Sacramento St., San Francisco CA  94118",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.7880238",
+		"lng": "-122.4481718"
+	},
+	"has_wall": false
+}, {
+	"name": "USF",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 2,
+	"has_lights": false,
+	"address": "Ewing Terrace, SF CA  94118",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.780067",
+		"lng": "-122.448184"
+	},
+	"has_wall": false
+}, {
+	"name": "Willie \"Woo Woo\" Wong Playground",
+	"has_fee": false,
+	"is_tennis_club": false,
+	"courts": 1,
+	"has_lights": false,
+	"address": "Willie \"Woo Woo\" Wong Playground, San Francisco CA  94108",
+	"is_restricted": false,
+	"geo": {
+		"lat": "37.79350939999999781093720230273902416229248046875",
+		"lng": "-122.4071718999999944799128570593893527984619140625"
+	},
+	"has_wall": false
+}]
